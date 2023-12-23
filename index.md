@@ -9,9 +9,10 @@
 For this project, I meticulously cleaned a dataset comprising 2000 rows. Leveraging this data, I crafted insightful visualizations aimed at providing valuable market insights. The primary emphasis of my project was to uncover spending trends and translate this information.
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-<img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+#### [Tableau Massachusetss Education Dashboard](https://public.tableau.com/views/MASSEducationOverview/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+<img src="images/Data Analysis Project_ Massachusetts Department of Education.mp4"/>
+The Massachusetts Education Overview is a recent project that showcases a Tableau dashboard created from The Massachusetts Department of Education's database. The project aims to provide useful information for superintendents, including graduation rates, school performance, class size vs college attendance, and 4th-grade math level. The report provides a comprehensive overview of education in Massachusetts and offers insights that can help improve the educational system.
+
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
