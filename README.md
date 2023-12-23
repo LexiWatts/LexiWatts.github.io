@@ -1,38 +1,11 @@
-## Data Analytics Project Portfolio
+# Lexi's Data Analyst Portfolio
 
-### Introduction
+Welcome to my data analyst portfolio! This repository contains a collection of my data analysis projects that showcase my skills in extracting insights from data. Feel free to explore the projects listed below and don't hesitate to reach out if you have any questions or feedback.
 
-Use this template to create a portfolio quicky. 
+## Skills
 
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain, edit, and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **Data Analysis:** Describe your proficiency in data analysis, including data cleaning, exploration, and visualization.
+- **Statistical Analysis:** Highlight your statistical skills and any relevant techniques you're familiar with.
+- **Programming Languages:** Specify the programming languages you're comfortable with (e.g., Python, R).
+- **Data Visualization:** Mention any tools or libraries you use for creating visualizations (e.g., Matplotlib, Seaborn, Tableau).
+- **Database Management:** If applicable, mention any databases you're familiar with (e.g., SQL, MongoDB).
