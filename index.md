@@ -2,7 +2,7 @@
 
 ---
 
-### Learn About My Projects
+### Recent Projects
 
 #### [Excel | Market Research & Analysis - Food Delivery](https://www.linkedin.com/posts/lexi-watts_dataanalysis-marketresearch-excel-activity-7142308862623178752-3GvP?utm_source=share&utm_medium=member_desktop)
 <img src="images/Add a heading.png"/>
