@@ -4,12 +4,12 @@ Welcome to my data analyst portfolio! This repository contains a collection of m
 
 ## Skills
 
--**Data Analysis: I possess proficiency in data analysis, covering tasks such as data cleaning, exploration, and visualization.
+Data Analysis: I possess proficiency in data analysis, covering tasks such as data cleaning, exploration, and visualization.
 
--**Statistical Analysis: I showcase my statistical skills and familiarity with relevant techniques.
+Statistical Analysis: I showcase my statistical skills and familiarity with relevant techniques.
 
--**Programming Languages: I am comfortable working with programming languages such as Python and R.
+Programming Languages: I am comfortable working with programming languages such as Python and R.
 
--**Data Visualization: I utilize tools and libraries Kaggle, Excel and Tableau for creating impactful visualizations.
+Data Visualization: I utilize tools and libraries Kaggle, Excel and Tableau for creating impactful visualizations.
 
--**Database Management: I am well-versed in SQL and mySQL
+Database Management: I am well-versed in SQL and mySQL
