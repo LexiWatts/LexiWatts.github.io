@@ -1,6 +1,6 @@
 # Lexi's Data Analyst Portfolio
 
-Welcome to my data analyst portfolio! This repository contains a collection of my data analysis projects that showcase my skills in extracting insights from data. Feel free to explore the projects listed below and don't hesitate to reach out if you have any questions or feedback.
+Welcome to my data analyst portfolio! This repository contains a collection of my data analysis projects that showcase my skills in extracting insights from data. Feel free to explore my projects and don't hesitate to reach out if you have any questions or feedback.
 
 ## Skills
 
