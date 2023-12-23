@@ -14,6 +14,10 @@ For this project, I meticulously cleaned a dataset comprising 2000 rows. Leverag
 <img src="images/Screenshot 2023-12-23 at 2.00.22 PM.png"/>
 The Massachusetts Education Overview is a recent project that showcases a Tableau dashboard created from The Massachusetts Department of Education's database. The project aims to provide useful information for superintendents, including graduation rates, school performance, class size vs college attendance, and 4th-grade math level. The report provides a comprehensive overview of education in Massachusetts and offers insights that can help improve the educational system.
 
+#### [SQL Healthcare Data Analyst Insights](https://www.linkedin.com/posts/lexi-watts_healthcareanalytics-datascience-sql-activity-7144466841820610560-uv7-?utm_source=share&utm_medium=member_desktop)
+<img src="images/Grey minimalist business project presentation .png"/>
+Dive into the details of a fascinating project where I utilized SQL to uncover valuable patterns in patient data. 
+From identifying top-performing medical specialties to revealing correlations between visit duration and procedure frequency, this project has been an enriching experience. Check out the article above to explore more. 
 
 
 
