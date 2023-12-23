@@ -4,9 +4,13 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [Excel | Market Research & Analysis - Food Delivery](https://www.linkedin.com/posts/lexi-watts_dataanalysis-marketresearch-excel-activity-7142308862623178752-3GvP?utm_source=share&utm_medium=member_desktop)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+Exploring the depths of Excel, our analysis of 2,000 rows of data revealed the following insights:
+A staggering 1.1 million dollars were dedicated to food delivery.
+Income levels accounted for 67% of the spending variance.
+Interestingly, buyers without children emerged as the top spenders in this category.
+The biggest spenders were between the ages of 51 and 65.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
