@@ -9,6 +9,10 @@
 Dive into the details of a fascinating project where I utilized SQL to uncover valuable patterns in patient data. 
 From identifying top-performing medical specialties to revealing correlations between visit duration and procedure frequency, this project has been an enriching experience. Check out the article above to explore more. 
 
+### [Tableau 2023-24 NBA Stats and Analysis](https://www.linkedin.com/posts/lexi-watts_2023-24-nba-player-stats-analysis-activity-7203763527726080002-TGoZ?utm_source=share&utm_medium=member_desktop)
+<img src="images/Screenshot 2024-06-04 at 10.12.39 AM.png"/> 
+Data analysts frequently encounter scenarios where key data insights can significantly impact decision-making. What narrative does the data reveal, and what insights can drive change? I recently explored this through a project on NBA player statistics. In my PowerPoint, I discuss my rationale for each visualization type and highlight key findings.
+
 #### [Excel | Market Research & Analysis - Food Delivery](https://www.linkedin.com/posts/lexi-watts_dataanalysis-marketresearch-excel-activity-7142308862623178752-3GvP?utm_source=share&utm_medium=member_desktop)
 <img src="images/Add a heading.png"/>
 For this project, I meticulously cleaned a dataset comprising 2000 rows. Leveraging this data, I crafted insightful visualizations aimed at providing valuable market insights. The primary emphasis of my project was to uncover spending trends and translate this information.
