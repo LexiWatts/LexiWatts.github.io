@@ -10,6 +10,7 @@ Dive into the details of a fascinating project where I utilized SQL to uncover v
 From identifying top-performing medical specialties to revealing correlations between visit duration and procedure frequency, this project has been an enriching experience. Check out the article above to explore more. 
 
 ### [Python Quality Prediction in a Mining Process](https://github.com/LexiWatts/Mining-Process-Python/tree/50de0e1852809636b3fd7d583630bbc8172c9918)
+<img src="images/istockphoto-1070302804-1024x1024.jpg"/> 
 As a data analyst, my role in this project involves identifying key quality predictors for a mining process. The primary objective is to use this data to forecast the level of impurities in the ore concentrate. Since impurity levels are measured hourly, predicting the silica content (an impurity) in the ore concentrate can provide engineers with early warnings, enabling them to take proactive measures. This allows them to reduce impurities efficiently and minimize environmental impact by decreasing the amount of ore sent to tailings.
 
 ### [Tableau 2023-24 NBA Stats and Analysis](https://www.linkedin.com/posts/lexi-watts_2023-24-nba-player-stats-analysis-activity-7203763527726080002-TGoZ?utm_source=share&utm_medium=member_desktop)
