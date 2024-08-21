@@ -13,6 +13,10 @@ From identifying top-performing medical specialties to revealing correlations be
 <img src="images/istockphoto-1070302804-1024x1024.jpg"/> 
 As a data analyst, my role in this project involves identifying key quality predictors for a mining process. The primary objective is to use this data to forecast the level of impurities in the ore concentrate. Since impurity levels are measured hourly, predicting the silica content (an impurity) in the ore concentrate can provide engineers with early warnings, enabling them to take proactive measures. This allows them to reduce impurities efficiently and minimize environmental impact by decreasing the amount of ore sent to tailings.
 
+#### [R | IBM HR Analytics Employee Attrition & Performance](https://www.linkedin.com/pulse/unlocking-insights-r-exploring-ibm-people-analytics-attrition-watts-rkaqc/)
+<img src="images/Pic.webp"/>
+See how I explore how to analyze key factors like employee performance and attrition using powerful tools like correlation matrices, scatter plots, and hypothesis testing. This experience has been a game-changer in enhancing my data analysis skills and understanding how R can uncover valuable insights.
+
 ### [Tableau 2023-24 NBA Stats and Analysis](https://www.linkedin.com/posts/lexi-watts_2023-24-nba-player-stats-analysis-activity-7203763527726080002-TGoZ?utm_source=share&utm_medium=member_desktop)
 <img src="images/Screenshot 2024-06-04 at 10.12.39 AM.png"/> 
 Data analysts frequently encounter scenarios where key data insights can significantly impact decision-making. What narrative does the data reveal, and what insights can drive change? I recently explored this through a project on NBA player statistics. In my PowerPoint, I discuss my rationale for each visualization type and highlight key findings in the NBA Stats Project.
