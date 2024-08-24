@@ -9,6 +9,10 @@
 Dive into the details of a fascinating project where I utilized SQL to uncover valuable patterns in patient data. 
 From identifying top-performing medical specialties to revealing correlations between visit duration and procedure frequency, this project has been an enriching experience. Check out the article above to explore more. 
 
+#### [SQL Heart Disease Insights and Analysis](https://www.linkedin.com/posts/lexi-watts_healthanalysis-sql-tableau-activity-7233125690613645314-DvKK?utm_source=share&utm_medium=member_desktop)
+<img src="images/Healthcare image.webp"/>
+Here is my final project for the Data Career Jumpstart program! I chose to delve into healthcare analysis, specifically exploring the relationships between heart disease, age, and other health metrics. My passion for data analysis, combined with my background in public health, guided me to this impactful subject.
+
 ### [Python Quality Prediction in a Mining Process](https://github.com/LexiWatts/Mining-Process-Python/blob/50de0e1852809636b3fd7d583630bbc8172c9918/Notebook%201.ipynb)
 <img src="images/istockphoto-1070302804-1024x1024.jpg"/> 
 As a data analyst, my role in this project involves identifying key quality predictors for a mining process. The primary objective is to use this data to forecast the level of impurities in the ore concentrate. Since impurity levels are measured hourly, predicting the silica content (an impurity) in the ore concentrate can provide engineers with early warnings, enabling them to take proactive measures. This allows them to reduce impurities efficiently and minimize environmental impact by decreasing the amount of ore sent to tailings.
